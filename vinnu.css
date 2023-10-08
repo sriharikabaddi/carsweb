@@ -1,0 +1,180 @@
+.hole {
+    background-image: url('https://wallpaper.dog/large/17283209.jpg');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    color: white;
+    font-style: oblique;
+}
+
+.card3 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+    padding: 40px;
+}
+
+.immg {
+    height: 100vh;
+    width: 100vw;
+}
+
+.bhead {
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+
+.bg-hole {
+    background-image: url('https://cdn.wallpapersafari.com/69/56/C7EO6N.jpg');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    padding: 20px
+}
+
+.head {
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-seri;
+}
+
+.head1 {
+    color: black;
+    text-align: left;
+    font-style: oblique;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+}
+
+.card {
+    background-color:lightyellow;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 15px;
+}
+
+.detailed-card {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.heaed {
+    font-family: 'Courier New',monospace;
+    font-style: italic;
+    color: black;
+}
+
+.last-card {
+    background-color:white;
+    padding: 30px;
+}
+.para-card{
+	font-style:italic;
+	font-family:'robot';
+	color:black;
+}
+.card-heading{
+	font-style:bold;
+	font-family:'sanserif';
+	color:red;
+
+}
+
+
+
+.bbg{
+
+ background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+
+}
+.h1ead{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: black;
+
+
+
+}
+
+.last1-card{
+	background-color: white;
+        padding: 30px;
+
+
+}
+
+.para1-card{
+	font-style:italic;
+	font-family:'robot';
+	color:black;
+
+
+
+}
+
+.card1-heading{
+        font-style:italic;
+	font-family:'robot';
+	color:black;
+
+
+}
+
+.bbg1{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+
+
+}
+.h2ead{
+
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: black;
+}
+
+.last3-card{
+	background-color: white;
+        padding: 30px;
+
+}
+.para3-card{
+
+	font-style:italic;
+	font-family:'robot';
+	color:red;
+
+
+
+
+}
+.card3-hearding{
+	font-style:italic;
+	font-family:'robot';
+	color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
