@@ -1,7 +1,8 @@
 .hole {
     background-image: url('https://wallpaper.dog/large/17283209.jpg');
     height: 100vh;
-    width: 100vw;
+    width: 300px;
+    margin:auto;
     background-size: cover;
     color: white;
     font-style: oblique;
@@ -28,7 +29,8 @@
 .bg-hole {
     background-image: url('https://cdn.wallpapersafari.com/69/56/C7EO6N.jpg');
     height: 100vh;
-    width: 100vw;
+    width: 300px;
+    margin:auto;
     background-size: cover;
     padding: 20px
 }
@@ -52,6 +54,7 @@
 
 .card {
     background-color:lightyellow;
+	
     border-radius: 10px;
     padding: 5px;
     margin: 15px;
@@ -61,7 +64,8 @@
     background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');
     background-size: cover;
     height: 100vh;
-    width: 100vw;
+    width: 300px;
+    margin:auto;
 }
 
 .heaed {
@@ -93,7 +97,8 @@
  background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');
     background-size: cover;
     height: 100vh;
-    width: 100vw;
+    width: 300px;
+	margin:auto;
 
 }
 .h1ead{
@@ -133,7 +138,8 @@
     background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');
     background-size: cover;
     height: 100vh;
-    width: 100vw;
+    width: 300px;
+	margin:auto;
 
 
 }
@@ -163,11 +169,6 @@
 	font-style:italic;
 	font-family:'robot';
 	color:black;
-}
-.pageview{
-
-	width:300px;
-	margin:auto;
 }
 
 
